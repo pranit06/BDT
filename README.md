@@ -1,6 +1,6 @@
 # BDT
 
-##Author
+## Author
 
 * Pranit Shiryan
 * Ekansh Trivedi
